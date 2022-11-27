@@ -92,6 +92,7 @@ Testing Data Real (follewed this guide [https://github.com/NVlabs/stylegan3-dete
 Fake datasets: https://k00.fr/j626x093
 - ffhq_k300_p1.0_fid9.6 (5k fake vs 5k real)
 - celebahq_k400_p1.0_fid10.2 (5k fake vs 4804 real)
+- cin_k* (10k fake vs 10k real)
 
 ||ROC-AUC|Accuracy|Precision|Recall|
 |---|:---:|:---:|:---:|:---:|
